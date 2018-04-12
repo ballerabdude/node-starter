@@ -4,4 +4,4 @@ require("babel-polyfill");
 // other babel configuration, if necessary
 
 // require your entrypoint js file here
-require('');
+require('example');
